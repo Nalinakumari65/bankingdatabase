@@ -1,2 +1,2 @@
 # bankingdatabase
-ministatmentusers
+ministatmentusers bankministatements
